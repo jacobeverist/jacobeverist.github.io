@@ -1,8 +1,10 @@
 
 
-# Jacob Everist
-
 Home Page
+
+
+# Contact
+Jacob Everist
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
