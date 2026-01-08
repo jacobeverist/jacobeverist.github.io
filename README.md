@@ -15,8 +15,10 @@ In my spare time I've been conducting my own research on extracting computationa
 - [Research Site](https://corticalcircuits.com)
 - [Forum](https://discourse.corticalcircuits.com)
 - [Digital Garden](https://concepts.corticalcircuits.com)
+- Email address is my name as follows:
+  - _firstname dot lastname at gmail dot com_
 
-# Projects
+# My Projects
 
 ## Active
 
@@ -24,25 +26,24 @@ In my spare time I've been conducting my own research on extracting computationa
 
 [DCC Dashboard](https://github.com/jacobeverist/dcc-public/tree/main/embedded_dcc_viewer_v1) is a real-time interactive dashboard for visualizing and experimenting with Discrete Cortical Circuits computational networks. Built with React, ReactFlow, and WebAssembly (WASM) for high-performance neural computation.
 
-
-
-
 ## Dormant
 
 ### BrainBlocks
 
 [BrainBlocks](https://github.com/jacobeverist/brainblocks) is a framework originally co-developed by myself and a partner at The Aerospace Corporation for building scalable Machine Learning (ML) applications using principles derived from computational neuroscience. It models neuron activations with binary patterns (vectors of 1s and 0s) which form a kind of "cortical language". Assemblages of computational blocks transmit these binary patterns between each other to create computational workflows that exploit these neuroscience principles.
 
-### Opaque/DarkMapper
+### Opaque / DarkMapper
 
-[Robotic Navigation and Mapping in Confined Environments Using Proprioception](https://github.com/jacobeverist/opaque)
+This is a code repository containing the experimental code and simulation framework developed for my PhD dissertation research, entitled [Robotic Navigation and Mapping in Confined Environments Using Proprioception](https://github.com/jacobeverist/opaque). The project investigates how snake-like robotic probes can explore, map, and navigate through unknown confined environments when all external sensors have failed, relying solely on proprioception (joint angles and body contact) and physical interaction with the environment.
 
-This repository contains the experimental code and simulation framework developed for my PhD dissertation research. The project investigates how snake-like robotic probes can explore, map, and navigate through unknown confined environments when all external sensors have failed, relying solely on proprioception (joint angles and body contact) and physical interaction with the environment.
+# Select Publications
+- J. Everist, W-M Shen, [Mapping Opaque and Confined Environments using Proprioception](https://robots.isi.edu/prl/everist2009_mapping_opaque_environments.pdf), IEEE Intl. Conf. on Robotics and Automation, Kobe, Japan, 2009.
+- M .Krivokon, C.H. Chiu, J.Everist, M. Rubenstein, J. Venkatesh, W.-M. Shen, [Multimode Locomotion for Reconfigurable Robots](https://robots.isi.edu/prl/wei-min-shen2006multimode-locomotion-for-reconfigurable-robots.pdf), Autonomous Robots, 20(2):165-177, 2006.
+- Everist, J., Mogharei, K., Suri, H., Ranasinghe, N., Khoshnevis, B., Will, P., Shen, W.-M., [A System for In-Space Assembly](https://robots.isi.edu/prl/everist2004a-system-for-in-space-assembly.pdf), International Conference on Intelligent and Robotic Systems, Sendai, Japan, 2004.
 
 
 
-
-# Background
+# Resume and CV
 
 For those looking to hire me, I have a deep area of expertise in AI, machine learning, data science, and robotics. I have a research-oriented entrepreneurial approach to identifying and solving customer problems. I can communicate complex concepts in easy-to-understand terms and can channel engineer talent and energy into recognizable customer value.
 
@@ -51,13 +52,37 @@ For those looking to hire me, I have a deep area of expertise in AI, machine lea
 - University of Southern California — **M.S. in Computer Science**, 2006
 - Oregon State University — **B.S. in Computer Engineering**, 2002
 
-
-
 ## Skills
 
-- Core Expertise: Machine Learning, Artificial Intelligence, Data Science, Robotics, Visualizations
-- Software Engineering: Cloud Platforms, Software-as-a-Service, DevOps Pipelines, Embedded Systems, FPGAs, GPUs, Languages/Frameworks (Python, Rust, C/C+, ReactJs, and many others)
-- Soft Skills: Customer Development, Technical Leadership, Entrepreneurship, Project Management, Research, Technical Writing, and Presentation
+### Core Expertise
+- Software Development
+- Machine Learning
+- Artificial Intelligence
+- Robotics
+- Data Visualizations
+- Interactive Visualizations
+
+### Software Engineering
+- Web Development (Node.js, Typescript, ReactJs, Jekyll, WebAssembly)
+- Languages (Python, Rust, C/C+, and many others)
+- Cloud Platforms (AWS, DigitalOcean, Github)
+- DevOps (Jenkins, Github, mlflow)
+- Testing Frameworks (Playwright, Rust, pytest )
+
+### Target Hardware
+- Embedded PC Systems (Raspberry PI, other architectures)
+- Microcontrollers (Arduino, AVR, PIC, Motorola 68HC11)
+- FPGA (HDLs, OpenCL)
+- GPUs (OpenCL, CUDA)
+
+### Sort Skills
+- Project Management
+- Customer Development
+- Technical Leadership
+- Scientific Research
+- Technical Writing
+- Lecture and Presentation
+- Visuals (Plots, Animations, Illustrations, Infographics)
 
 ## Work Experience
 
@@ -78,8 +103,3 @@ For those looking to hire me, I have a deep area of expertise in AI, machine lea
 
 ### Co-Founder, **SimYouEnglish**, Los Angeles, CA — 2007-2010
 - Built a web-based interactive conversational English service. Developed the business concept, performed market research and developed initial prototype. Found design and technical solutions for bridging the language and culture gap.   Managed a team for further development of the web application using Flash and media streaming.
-
-## Select Publications
-- J. Everist, W-M Shen, **Mapping Opaque and Confined Environments using Proprioception**, IEEE Intl. Conf. on Robotics and Automation, Kobe, Japan, 2009.
-- M .Krivokon, C.H. Chiu, J.Everist, M. Rubenstein, J. Venkatesh, W.-M. Shen, **Multimode Locomotion for Reconfigurable Robots**, Autonomous Robots, 20(2):165-177, 2006.
-- Everist, J., Mogharei, K., Suri, H., Ranasinghe, N., Khoshnevis, B., Will, P., Shen, W.-M., **A System for In-Space Assembly**, International Conference on Intelligent and Robotic Systems, Sendai, Japan, 2004.
