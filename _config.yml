@@ -6,8 +6,8 @@ remote_theme: pages-themes/dinky@v0.2.0
 #remote_theme: pages-themes/hacker@v0.2.0
 #remote_theme: pages-themes/primer@v0.6.0
 
-title: Everist Research
-description: The homepage of Jacob Everist
+title: Jacob Everist
+description: Information and research projects
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

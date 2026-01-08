@@ -1,120 +1,34 @@
 
 
-Home Page
-
-
-# Contact
+# Bio
 Jacob Everist
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Education
+- University of Southern California — **Ph.D in Computer Science**, 2015
+- University of Southern California — **M.S. in Computer Science**, 2006
+- Oregon State University — **B.S. in Computer Engineering**, 2002
 
 
-There should be whitespace between paragraphs.
+## Links
+- [Github](https://github.com/jacobeverist)
+- [Linkedin](https://www.linkedin.com/in/jacob-everist-201396/)
+- [Research Blog](https://corticalcircuits.com)
+- [Forum](https://discourse.corticalcircuits.com)
+- [Digital Garden](https://concepts.corticalcircuits.com)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Current Projects
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+[Discrete Cortical Circuits Dashboard](https://github.com/jacobeverist/dcc-public/tree/main/embedded_dcc_viewer_v1)
 
 
-### Definition lists can be used with HTML syntax.
+# Past Projects
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## BrainBlocks
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+[BrainBlocks](https://github.com/jacobeverist/brainblocks) is a framework originall co-developed by me at The Aerospace Corporation for building scalable Machine Learning (ML) applications using principles derived from computational neuroscience. It models neuron activations with binary patterns (vectors of 1s and 0s) which form a kind of "cortical language". Assemblages of computational blocks transmit these binary patterns between each other to create computational workflows that exploit these neuroscience principles.
 
-```
-The final element.
-```
+## Opaque/DarkMapper
 
+[Robotic Navigation and Mapping in Confined Environments Using Proprioception](https://github.com/jacobeverist/opaque)
 
+This repository contains the experimental code and simulation framework developed for my PhD dissertation research. The project investigates how snake-like robotic probes can explore, map, and navigate through unknown confined environments when all external sensors have failed, relying solely on proprioception (joint angles and body contact) and physical interaction with the environment.
