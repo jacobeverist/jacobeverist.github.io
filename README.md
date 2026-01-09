@@ -15,26 +15,25 @@ In my spare time I've been conducting my own research on extracting computationa
 - [Research Site](https://corticalcircuits.com)
 - [Forum](https://discourse.corticalcircuits.com)
 - [Digital Garden](https://concepts.corticalcircuits.com)
-- Email address is my name as follows:
-  - _firstname dot lastname at gmail dot com_
+- Email: _jacob dot everist at gmail dot com_
 
 # My Projects
 
 ## Active
 
-### Discrete Cortical Circuits Dashboard
+### [Discrete Cortical Circuits Dashboard](https://github.com/jacobeverist/dcc-public/tree/main/embedded_dcc_viewer_v1)
 
-[DCC Dashboard](https://github.com/jacobeverist/dcc-public/tree/main/embedded_dcc_viewer_v1) is a real-time interactive dashboard for visualizing and experimenting with Discrete Cortical Circuits computational networks. Built with React, ReactFlow, and WebAssembly (WASM) for high-performance neural computation.
+DCC Dashboard is a real-time interactive dashboard for visualizing and experimenting with Discrete Cortical Circuits computational networks. Built with React, ReactFlow, and WebAssembly (WASM) for high-performance neural computation.
 
 ## Dormant
 
-### BrainBlocks
+### [BrainBlocks](https://github.com/jacobeverist/brainblocks)
 
-[BrainBlocks](https://github.com/jacobeverist/brainblocks) is a framework originally co-developed by myself and a partner at The Aerospace Corporation for building scalable Machine Learning (ML) applications using principles derived from computational neuroscience. It models neuron activations with binary patterns (vectors of 1s and 0s) which form a kind of "cortical language". Assemblages of computational blocks transmit these binary patterns between each other to create computational workflows that exploit these neuroscience principles.
+BrainBlocks is a framework originally co-developed by myself and a partner at The Aerospace Corporation for building scalable Machine Learning (ML) applications using principles derived from computational neuroscience. It models neuron activations with binary patterns (vectors of 1s and 0s) which form a kind of "cortical language". Assemblages of computational blocks transmit these binary patterns between each other to create computational workflows that exploit these neuroscience principles.
 
-### Opaque / DarkMapper
+### [Opaque / DarkMapper](https://github.com/jacobeverist/opaque)
 
-This is a code repository containing the experimental code and simulation framework developed for my PhD dissertation research, entitled [Robotic Navigation and Mapping in Confined Environments Using Proprioception](https://github.com/jacobeverist/opaque). The project investigates how snake-like robotic probes can explore, map, and navigate through unknown confined environments when all external sensors have failed, relying solely on proprioception (joint angles and body contact) and physical interaction with the environment.
+This is a code repository containing the experimental code and simulation framework developed for my PhD dissertation research entitled, _Robotic Navigation and Mapping in Confined Environments Using Proprioception_. The project investigates how snake-like robotic probes can explore, map, and navigate through unknown confined environments when all external sensors have failed, relying solely on proprioception (joint angles and body contact) and physical interaction with the environment.
 
 # Select Publications
 - J. Everist, W-M Shen, [Mapping Opaque and Confined Environments using Proprioception](https://robots.isi.edu/prl/everist2009_mapping_opaque_environments.pdf), IEEE Intl. Conf. on Robotics and Automation, Kobe, Japan, 2009.
