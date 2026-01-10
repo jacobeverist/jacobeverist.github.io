@@ -48,11 +48,11 @@ For those looking to hire me, I have a deep area of expertise in AI, machine lea
 ### Software Engineering
 - Web Development (Node.js, Typescript, ReactJs, Jekyll, WebAssembly)
 - Languages (Python, Rust, C/C+, and many others)
-- Cloud Platforms (AWS, DigitalOcean, Github)
-- DevOps (Jenkins, Github, mlflow)
-- Testing Frameworks (Playwright, Rust, pytest )
+- Cloud Platforms (AWS, DigitalOcean, GitHub)
+- DevOps (Jenkins, GitHub Actions, MLflow)
+- Testing Frameworks (Playwright, Rust, pytest)
 
-### Target Hardware
+### Hardware Targets
 - Embedded PC Systems (Raspberry PI, other architectures)
 - Microcontrollers (Arduino, AVR, PIC, Motorola 68HC11)
 - FPGA (HDLs, OpenCL)
