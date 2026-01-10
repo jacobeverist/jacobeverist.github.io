@@ -35,11 +35,9 @@ DCC Dashboard is a real-time interactive dashboard for visualizing and experimen
 
 BrainBlocks is a framework originally co-developed by myself and a partner at The Aerospace Corporation for building scalable Machine Learning (ML) applications using principles derived from computational neuroscience. It models neuron activations with binary patterns (vectors of 1s and 0s) which form a kind of "cortical language". Assemblages of computational blocks transmit these binary patterns between each other to create computational workflows that exploit these neuroscience principles.
 
-### [Opaque / DarkMapper](https://github.com/jacobeverist/opaque)
+### [Robot Mapping with Proprioception](https://github.com/jacobeverist/opaque)
 
-Exploring and Mapping Confined and Sensor-Challenged Environments with Proprioception of a Robotic Snake
-
-This is a code repository containing the experimental code and simulation framework developed for my PhD dissertation research entitled, _Robotic Navigation and Mapping in Confined Environments Using Proprioception_. The project investigates how snake-like robotic probes can explore, map, and navigate through unknown confined environments when all external sensors have failed, relying solely on proprioception (joint angles and body contact) and physical interaction with the environment.
+This is a code repository containing the experiments and simulation framework developed for my PhD dissertation research entitled, _[Exploring and Mapping Confined and Sensor-Challenged Environments with Proprioception of a Robotic Snake](https://github.com/jacobeverist/opaque/blob/physical/doc/Everist_Dissertation_2015.pdf)_. The project investigates how snake-like robotic probes can explore, map, and navigate through unknown confined environments when all external sensors have failed, relying solely on proprioception (joint angles and body contact) and physical interaction with the environment.
 
 # Publications
 - J. Everist, W-M Shen, [Mapping Opaque and Confined Environments using Proprioception](https://robots.isi.edu/prl/everist2009_mapping_opaque_environments.pdf), IEEE Intl. Conf. on Robotics and Automation, Kobe, Japan, 2009.
