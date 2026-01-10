@@ -1,6 +1,6 @@
 
 
-# Overview
+# About Me
 
 I received my computer science PhD in 2015 from the University of Southern California with the focus on robotic mapping in sensor-challenged environments.
 
