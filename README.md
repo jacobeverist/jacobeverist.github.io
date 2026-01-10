@@ -8,16 +8,20 @@ Since then, I've been working at The Aerospace Corporation applying my skills to
 
 In my spare time I've been conducting my own research on extracting computational principles from the brain and putting them into algorithmic form for high-performance applications.  This involves developing an entirely new paradigm for computation and representation that is fundamentally different from traditional neural network models that have seen so much popularity and success.
 
-## My Links
-- [Github](https://github.com/jacobeverist)
+# Resources
+
+## Research
+- [Github](https://github.com/jacobeverist): where I work on many of my software projects
+- [CorticalCircuits.com](https://corticalcircuits.com): my research website and blog
+- [Forum](https://discourse.corticalcircuits.com): my discourse site for discussion on my research interestes
+- [Digital Garden](https://concepts.corticalcircuits.com): linked notes on research concepts and ideas
+
+## Personal
 - [Linkedin](https://www.linkedin.com/in/jacob-everist-201396/)
-- [Research Site](https://corticalcircuits.com)
-- [Forum](https://discourse.corticalcircuits.com)
-- [Digital Garden](https://concepts.corticalcircuits.com)
-- [Contact](https://forms.gle/FMiLtp4tb85h8tXN6)
+- [Contact Form](https://forms.gle/FMiLtp4tb85h8tXN6)
 - [Resume/CV](./CV.md)
 
-# My Projects
+# Projects
 
 ## Active
 
@@ -25,7 +29,7 @@ In my spare time I've been conducting my own research on extracting computationa
 
 DCC Dashboard is a real-time interactive dashboard for visualizing and experimenting with Discrete Cortical Circuits computational networks. Built with React, ReactFlow, and WebAssembly (WASM) for high-performance neural computation.
 
-## Dormant
+## Past
 
 ### [BrainBlocks](https://github.com/jacobeverist/brainblocks)
 
