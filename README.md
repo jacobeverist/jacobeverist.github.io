@@ -15,7 +15,7 @@ In my spare time I've been conducting my own research on extracting computationa
 - [Research Site](https://corticalcircuits.com)
 - [Forum](https://discourse.corticalcircuits.com)
 - [Digital Garden](https://concepts.corticalcircuits.com)
-- Email: _jacob dot everist at gmail dot com_
+- [Contact](https://forms.gle/FMiLtp4tb85h8tXN6)
 
 # My Projects
 
@@ -32,6 +32,8 @@ DCC Dashboard is a real-time interactive dashboard for visualizing and experimen
 BrainBlocks is a framework originally co-developed by myself and a partner at The Aerospace Corporation for building scalable Machine Learning (ML) applications using principles derived from computational neuroscience. It models neuron activations with binary patterns (vectors of 1s and 0s) which form a kind of "cortical language". Assemblages of computational blocks transmit these binary patterns between each other to create computational workflows that exploit these neuroscience principles.
 
 ### [Opaque / DarkMapper](https://github.com/jacobeverist/opaque)
+
+Exploring and Mapping Confined and Sensor-Challenged Environments with Proprioception of a Robotic Snake
 
 This is a code repository containing the experimental code and simulation framework developed for my PhD dissertation research entitled, _Robotic Navigation and Mapping in Confined Environments Using Proprioception_. The project investigates how snake-like robotic probes can explore, map, and navigate through unknown confined environments when all external sensors have failed, relying solely on proprioception (joint angles and body contact) and physical interaction with the environment.
 
