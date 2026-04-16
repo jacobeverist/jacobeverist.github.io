@@ -1,8 +1,4 @@
 main:
-  - title: "About"
-    url: /
-  - title: "Publications"
-    url: /publications/
   - title: "Projects"
     url: /projects/
   - title: "CV"

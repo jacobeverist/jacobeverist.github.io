@@ -13,6 +13,7 @@ exclude:
   - README.md
   - CV.md
   - CLAUDE.md
+  - publications.md
   - Gemfile
   - Gemfile.lock
 
